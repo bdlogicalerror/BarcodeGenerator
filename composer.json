@@ -17,5 +17,6 @@
             "BarcodeEngine\\": "src/"
 
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
