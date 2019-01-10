@@ -1,6 +1,6 @@
 {
     "name": "bdlogicalerror/barcode-generator",
-    "description": "a php package for generate barcode using GD library",
+    "description": "a php package for generate barcode without GD library",
     "license": "MIT",
     "authors": [
         {
