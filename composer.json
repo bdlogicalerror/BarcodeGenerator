@@ -1,5 +1,5 @@
 {
-    "name": "bdlogicalerror/BarcodeGenerator",
+    "name": "bdlogicalerror/barcodegenerator",
     "description": "a php package for generate barcode using GD library",
     "license": "MIT",
     "authors": [
