@@ -1,0 +1,21 @@
+{
+    "name": "bdlogicalerror/barcode_engine",
+    "description": "a php package for generate barcode using GD library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Munna Khan",
+            "email": "engrmunnakhan@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+
+        ],
+        "psr-4": {
+            "BarcodeEngine\\": "src/"
+
+        }
+    }
+}
